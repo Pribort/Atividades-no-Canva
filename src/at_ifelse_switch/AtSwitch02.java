@@ -31,7 +31,7 @@ public class AtSwitch02 {
 	    	System.out.printf("   Valor do Saque R$ ");
 	    	saque = leia.nextFloat();
 	    	System.out.println("   ===============  ");
-            System.out.printf("   Saque: R$  ", saque);
+            
              
              if (saque > saldo)
                  {
